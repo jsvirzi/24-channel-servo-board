@@ -1,0 +1,7 @@
+.idea/
+.settings/
+CMakeLists_template.txt
+Debug/
+cmake-build-debug/
+servo-board Debug.launch
+
